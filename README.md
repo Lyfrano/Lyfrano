@@ -1,5 +1,4 @@
 - @Lyfrano
-- 🌱 I’m currently using Java, C++ and Go
+- 🌱 I’m currently seeking internship opportunities !
 - 📙 Studying at University of Ottawa
-- 📫 lomemature@gmail.com
 
